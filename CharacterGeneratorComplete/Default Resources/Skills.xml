@@ -1,0 +1,95 @@
+<Skills>
+    <Skill>
+        <Name>Light Armor</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+            <Job>Melee Damage</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Heavy Armor</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Shield</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Sword</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+            <Job>Melee Damage</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Axe</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+            <Job>Melee Damage</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Mace</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+            <Job>Melee Damage</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Dagger</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+            <Job>Melee Damage</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Thrown</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+            <Job>Melee Damage</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Earth Magic</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Nature Magic</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+        </Jobs>
+    </Skill>
+
+    <Skill>
+        <Name>Holy Magic</Name>
+        <Jobs type="array">
+            <Job>Tank</Job>
+            <Job>Melee Magic</Job>
+        </Jobs>
+
+    </Skill>
+</Skills>

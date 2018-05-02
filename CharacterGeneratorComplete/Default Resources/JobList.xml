@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Jobs>
+    <Job>
+        <Name>Tank</Name>
+        <Mind>.15</Mind>
+        <Body>.70</Body>
+        <Soul>.15</Soul>
+    </Job>
+    <Job>
+        <Name>Melee Magic</Name>
+        <Mind>.45</Mind>
+        <Body>.45</Body>
+        <Soul>.10</Soul>
+    </Job>
+
+    <Job>
+        <Name>Melee Damage</Name>
+        <Mind>.15</Mind>
+        <Body>.75</Body>
+        <Soul>.10</Soul>
+    </Job>
+</Jobs>
